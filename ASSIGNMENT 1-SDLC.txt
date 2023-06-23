@@ -2,6 +2,13 @@
 
 - Software is a set of instructions, data or programs used to operate computers and execute specific tasks.
 
+	Planning
+	Defining
+	Designing
+	Building
+	Testing
+	Deployment
+
 2. WHAT IS PROGRAMMING?
 
 - Programming is the process of writing code to facilitate specific actions in a computer,-
@@ -9,35 +16,15 @@
 
 3. WHAT ARE THE TYPES OF APPLICATIONS ?
 
-- Project Planning
-	Requirement analysis is the most important and fundamental stage in SDLC.
-	It is performed by the senior members of the team with inputs from the customer,
-	the sales department, market surveys and domain experts in the industry. 
-	
-- Defining
-	Once the requirement analysis is done the next step is to clearly define and document-
-      the product requirements and get them approved from the customer or the market analysts.
+- 1.Word Processing Software
+  2.Spreadsheet Software
+  3.Presentation Software
+  4.Multimedia Software
+  5.Web Browsers
+  6.Educational Software
+  7.Graphics Software
 
-- Designing
-	This DDS is reviewed by all the important stakeholders and based on various parameters as risk assessment,product robustness,
-	design modularity, budget and time constraints, the best design approach is selected for the product.
-
-- Building
-	In this stage of SDLC the actual development starts and the product is built.
-	The programming code is generated as per DDS during this stage. 
-	If the design is performed in a detailed and organized manner, code generation can be accomplished without much hassle.
-
-- Testing
-	This stage is usually a subset of all the stages as in the modern SDLC models,
-	the testing activities are mostly involved in all the stages of SDLC.
-
-- Deployment
-
-	Once the product is tested and ready to be deployed it is released formally in the appropriate market. 
-	Sometimes product deployment happens in stages as per the business strategy of that organization. 
-
-4. WHAT IS PYTHON?
-
+4. WHAT IS PYTHON ?
 - Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. 
 
 
