@@ -1,12 +1,16 @@
+'''
+    Write a Python program to count the occurrences of each word in a
+    given sentence.
+'''
 
-
-
+# Enter A String
 string= input("Enter A String: ")
 
-string=string.split()
+string=string.split()  # Split The String
 
 
 i=0
+
 
 while i<len(string):
     count=0
