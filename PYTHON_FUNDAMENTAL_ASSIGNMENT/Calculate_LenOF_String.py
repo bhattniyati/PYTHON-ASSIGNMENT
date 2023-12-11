@@ -6,4 +6,4 @@
 name= input("Enter The Name: ")
 
 print(name) # Print name
-print("Len Of String is: ",len(name))  # Chcek the Len of String
+print("Len Of String is: ",len(name))  # Check the Len of String
