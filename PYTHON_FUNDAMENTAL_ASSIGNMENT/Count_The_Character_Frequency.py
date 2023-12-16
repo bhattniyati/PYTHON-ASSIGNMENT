@@ -8,6 +8,11 @@ count=0
 string = input("Enter The String: ")
 character=[]
 
+'''
+    for char in string
+        if character == character so count a number and add +=1 and print count number
+'''
+
 for char in string:
     if character==character:
         count+= 1
