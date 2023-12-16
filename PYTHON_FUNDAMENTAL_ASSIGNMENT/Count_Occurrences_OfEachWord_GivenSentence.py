@@ -11,6 +11,13 @@ string=string.split()  # Split The String
 
 i=0
 
+'''
+    Use of while loop and for loop
+    for x in string 
+    and chcek the condition if string of i == x 
+    so count count and add 1
+    and print string of i..
+'''
 
 while i<len(string):
     count=0
