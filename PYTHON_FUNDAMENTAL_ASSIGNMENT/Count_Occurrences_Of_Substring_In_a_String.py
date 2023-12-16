@@ -12,5 +12,5 @@ substring= "Surat"
 
 occurrences = main_string.count(substring)
 
-
-print(f"The Substring '{substring}' Appears {occurrences } Times in The Main String...")
+# Display the count a substring
+print(f"The Substring '{substring}' Appears {occurrences} Times in The Main String...")
