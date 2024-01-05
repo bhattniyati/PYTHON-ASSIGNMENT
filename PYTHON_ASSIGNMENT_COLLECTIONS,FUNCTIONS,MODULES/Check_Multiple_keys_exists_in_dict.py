@@ -13,7 +13,7 @@ dict1= {
     }
 
 # keys into set 
-keys= {'roll_no', 'name', 'subject'}
+keys= set({'roll_no', 'name', 'subject'})
 
 # Check keys in a dict1 using issubset method..
 # Thid method returns true if all keys in dict1 otherwise returns false..
