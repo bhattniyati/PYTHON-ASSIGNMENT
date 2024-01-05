@@ -16,7 +16,7 @@ def Unique_elements(input_list):
 # Define original list
 original_list= [1,2,2,3,3,3,4,5,6,6,6,6,7,7,8]
 
-# Object of Unique_elements
+# Call Function
 result= Unique_elements(original_list)
 
 # Print Original list
