@@ -25,7 +25,7 @@ def Common_member(list1,list2):
 lista=[1,2,3,4,5]
 listb=[5,6,7,8,9,10]
 
-# Object of common member
+# Call function
 result= Common_member(lista,listb)
 
 # print result
