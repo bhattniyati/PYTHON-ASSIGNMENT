@@ -31,7 +31,7 @@ for i in sub_list:
     if i in main_list:
         c+=1
 
-if(c==len(sub_list)):
+if(c==sub_list):
     result=True
 
 # Display the result    
