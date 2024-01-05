@@ -16,7 +16,7 @@ def Numbers(number_list):
 # Numbers List
 lists= [10,5,20,4,30,2]
 
-# Object of Numbers
+# Call function
 n1= Numbers(lists)
 
 # print largest number
